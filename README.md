@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Guilherme-Porto">
-  <img height="165em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Porto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Porto&layout=compact&langs_count=7&theme=radical"/>
+  <img height="165em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Porto&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="165em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Porto&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
