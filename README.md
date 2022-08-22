@@ -1,4 +1,3 @@
-### Olá! Eu sou o **Guilherme Landim**
 
 ##
 
