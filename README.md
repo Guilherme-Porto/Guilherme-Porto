@@ -1,7 +1,9 @@
 ## 👋 Olá, eu sou o Guilherme
 
 💻 Desenvolvedor Back-end / Full Stack **(Node.js, JavaScript, React e Java)**
+
 🎯 Experiência prática em soluções web para otimização de processos reais 
+
 📍 Brasil | Aberto a novos desafios
 
 ---
