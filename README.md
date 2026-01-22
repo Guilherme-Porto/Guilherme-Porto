@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Guilherme
 
-💻 Desenvolvedor com foco em **Back-end** e **Front-end**  
-🎯 Buscando evoluir profissionalmente e conquistar uma oportunidade na área de tecnologia  
+💻 Desenvolvedor Back-end / Full Stack **(Node.js, JavaScript, React e Java)**
+🎯 Experiência prática em soluções web para otimização de processos reais 
 📍 Brasil | Aberto a novos desafios
 
 ---
